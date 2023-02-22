@@ -1,0 +1,195 @@
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.23) !important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline,
+.MuiOutlinedInput-colorSecondary.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #80bdff !important;
+  outline: 0 !important;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important;
+}
+.btn-round-lg {
+  border-radius: 22.5px;
+}
+.btn-round {
+  border-radius: 17px;
+}
+.btn-round-sm {
+  border-radius: 15px;
+}
+.btn-round-xs {
+  border-radius: 11px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.MuiAutocomplete-noOptions {
+  padding: 14px 16px !important;
+  color: red !important;
+  direction: rtl !important;
+  text-align: right !important;
+}
+.MuiFormControl-fullWidth {
+  width: 100% !important;
+}
+.MuiAutocomplete-endAdornment {
+  visibility: hidden !important;
+}
+.MuiAutocomplete-hasPopupIcon .MuiAutocomplete-inputRoot,
+.MuiAutocomplete-hasClearIcon .MuiAutocomplete-inputRoot {
+  padding-right: 10px !important;
+}
+
+.swal-text {
+  text-align: center;
+  color: black;
+}
+
+.swal-footer {
+  text-align: center !important;
+}
+#container {
+  padding: 0;
+}
+#emailInput {
+  border-color: black;
+  border-width: 2px;
+}
+#passwordInput {
+  border-color: #111111;
+  border-width: 2px;
+}
+#loginButton {
+  background-color: #8eacff;
+  font-weight: bold;
+}
+#Alleventsbtn {
+  margin-top: 40%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: x-large;
+  font-weight: bold;
+  height: 200px;
+  border-radius: 500px;
+  background-color: #0f4c81;
+}
+#loginPageStyle {
+  padding-bottom: 70px;
+  margin-top: 100px;
+}
+
+#back2 {
+  padding-bottom: 70px;
+  margin-top: 100px;
+}
+
+#idLoginStyle {
+  width: 100vw;
+  min-height: 100vh;
+  /* background: linear-gradient(#3e455c, #292635); */
+  /* background: linear-gradient(#464c5f, #39315d); */
+  /* background: linear-gradient(#7f8b97, #39315d); */
+  background: linear-gradient(#7f8b97, #454579); 
+}
+
+#resetVal {
+  background: linear-gradient(#dbdddbad, #488164);
+  padding-bottom: 443px;
+  padding-top: 100px;
+}
+#idLoginStyle2 {
+  width: 100vw;
+  min-height: 100vh;
+  background: linear-gradient(#3e455c, #7e7b88);
+}
+#labelValidate {
+  color: #850808;
+  font-size: 22px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#eventWithoutBus {
+  margin-top: 40%;
+  margin-right: 250px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: xx-large;
+  font-weight: bold;
+  height: 200px;
+  border-radius: 500px;
+  background-color: #0f4c81;
+}
+
+#Createeventbtn {
+  margin-top: 40%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: x-large;
+  font-weight: bold;
+  height: 200px;
+  border-radius: 500px;
+  background-color: white;
+  color: #0f4c81;
+  border-color: #0f4c81;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Paris";
+}
+
+.canvasjs-chart-canvas {
+  position: static !important;
+  user-select: unset !important;
+}
+.canvasjs-chart-canvas {
+  position: static !important;
+  user-select: unset !important;
+}
+
+#idCompanyColor {
+  background-color: #59698d !important;
+  color: white !important;
+}
+
+#phoneColor {
+  color: #000080;
+  font-family: "Franklin Gothic Medium", "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 29px;
+}
+
+#year {
+  font-family: Verdana, sans-serif;
+}
+#busCalLogo {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#customerPage {
+  margin-top: 243px;
+}
+#homepage {
+  margin-bottom: 0%;
+}
+
+
+#main-footer {
+  height: 155px;
+  width: 100%;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  bottom: 0pt;
+}
+#checkFooter {
+  height: 180px;
+  margin: auto;
+}
+#details {
+  /* background: linear-gradient(#b0beca, #a29bbd); */
+  background-color: #d0ced6;
+  line-height: 1.1 !important;
+}
